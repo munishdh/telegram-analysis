@@ -10,3 +10,4 @@ for item in data:
     if item.get('message'):
         if 'Alert for ST COMBO HTF' in item['message']:
             print(item['message'])
+#
