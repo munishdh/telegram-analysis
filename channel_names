@@ -1,0 +1,10 @@
+channel_names = {
+	'tmf_st_combo_htf': 'https://t.me/+EgInQhjv8-I1YjFl',
+	'tmf_st_combo_ltf': 'https://t.me/+JeIez-DyeUMyODBl',
+        'tmf_dc_2hrs': 'https://t.me/+GFL34u6v57k5NDU1',
+        'tmf_st_2hrs': 'https://t.me/+A_DOYaMb-odlYTE1',
+        'tmf_st_30min': 'https://t.me/+kjEhAbASvsljZjQ1',
+        'tmf_st_15min': 'https://t.me/+k45H4vgkFJRhNjM9',
+        'tmf_dc_30min': 'https://t.me/+tZDtavbm6OY2N2Jl',
+        'tmf_dc_15min': 'https://t.me/+sb2wr63LSV9jN2Q1'
+	}
